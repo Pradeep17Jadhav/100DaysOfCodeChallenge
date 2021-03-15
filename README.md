@@ -7,5 +7,6 @@ This is 100 days of coding challenge. In this challenge I will be solving at lea
 The objective of this challenge is:
   1) To improve my problem solving skills
   2) To start coding in C++. Currently I am using Javascript, Python and C#, so I would like to start using C++ to get strong in it.
+  3) Go from easy to difficult levels of problem within 100 days
 
-I am starting this challenge on March 14th, 2021. I will check the change in my ratings after 100 days. To start with C++, I will start with easiest question from hackerrank and LeetCode.
+I am starting this challenge on March 14th, 2021. I will check the change in my ratings after 100 days. To start with C++, I will start with easiest question from hackerrank and LeetCode. I will keep a log of what things I learned each day.

@@ -1,5 +1,5 @@
-# 100DaysOfCodingChallenge
-This is 100 days of coding challenge. In this challenge I will be solving at least one program per day for 100 days, from following websites:
+# 100DaysOfCodeChallenge
+This is my 100 days of code challenge. In this challenge I will be solving at least one program per day for 100 days, from following websites:
   1) Hackerrank - 221
   2) LeetCode - 0
   3) CodeForces - 0
